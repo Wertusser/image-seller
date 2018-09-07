@@ -1,0 +1,8 @@
+[package]
+name = "kawasaki"
+version = "0.1.0"
+authors = ["Wertusser <wertusser@gmail.com>"]
+
+[dependencies]
+
+
