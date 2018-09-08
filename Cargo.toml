@@ -4,5 +4,6 @@ version = "0.1.0"
 authors = ["Wertusser <wertusser@gmail.com>"]
 
 [dependencies]
-
+rand = "0.5"
+uuid = {version="0.7", features = ["v4"]}
 
